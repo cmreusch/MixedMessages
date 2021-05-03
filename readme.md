@@ -1,2 +1,2 @@
 ## Mixed Messages Portfolio Project ##
-This is the intro to my Codecademy portfolio project.
+This is my first Full Stack portfolio project
